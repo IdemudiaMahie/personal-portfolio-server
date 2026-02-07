@@ -1,0 +1,25 @@
+{
+  "name": "personal-portfolio-server",
+  "version": "1.0.0",
+  "description": "This is the backend application for my portfolio website",
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "NodeJs"
+  ],
+  "homepage": "https://github.com/IdemudiaMahie/personal-portfolio-server#readme",
+  "bugs": {
+    "url": "https://github.com/IdemudiaMahie/personal-portfolio-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdemudiaMahie/personal-portfolio-server.git"
+  },
+  "license": "MIT",
+  "author": "Osamahiemen Idemudia",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
